@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:29:50.813Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3XoKVZS2-ZI1iCO--0Ug" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T00:22:49.732Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2vtsInT8Eb1Y9Z-ObKCd" version="24.2.3" type="github">
   <diagram name="Page-1" id="PHaOog0F7teunCjuMIIl">
     <mxGraphModel dx="2172" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_pmFMM78xHH3_ghr4jos-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="190" width="277.62" height="174.9" as="geometry" />
+        <mxCell id="_pmFMM78xHH3_ghr4jos-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="180" width="277.62" height="174.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
