@@ -15,7 +15,7 @@ To successfully complete this project, each section must meet requirements befor
 
 1. **[Review #1](https://github.com/krillavilla/Securing-the-Perimeter/blob/main/Review_1.md)**
 2. **[Review #2](https://github.com/krillavilla/Securing-the-Perimeter/blob/main/Review_2.md)**
-3. **Review #3**
+3. **[Review #3](https://github.com/krillavilla/Securing-the-Perimeter/blob/main/Review_3.md)**
 4. **Review #4**
 
 ### Section 1: Designing a Secure Network Architecture
