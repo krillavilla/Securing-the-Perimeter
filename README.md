@@ -13,7 +13,7 @@ To this end, SecureCorp, a renowned cybersecurity consulting firm, has revamped 
 
 To successfully complete this project, each section has requirements that must be met before moving forward in the Udacity's Enterprise Security Engineer program. It was not easy, but after four submissions, the project was finally completed. The feedback I received from each submission was invaluable and helped me to ensure that the project was a complete success. Here are the four submissions' reviews:
 
-1. **Review #1**
+1. **[Review #1](https://github.com/krillavilla/Securing-the-Perimeter/blob/main/Review_1.md)**
 2. **Review #2**
 3. **Review #3**
 4. **Review #4**
